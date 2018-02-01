@@ -1,0 +1,46 @@
+--2017-05-04 22:46:21--  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在解析主机 github-cloud.s3.amazonaws.com... 52.216.227.16
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:46:45--  (尝试次数： 2)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:47:08--  (尝试次数： 3)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:47:32--  (尝试次数： 4)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:47:57--  (尝试次数： 5)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:48:23--  (尝试次数： 6)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:48:50--  (尝试次数： 7)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:49:18--  (尝试次数： 8)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:49:47--  (尝试次数： 9)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:50:17--  (尝试次数：10)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 失败：Connection timed out。
+重试中。
+
+--2017-05-04 22:50:48--  (尝试次数：11)  https://github-cloud.s3.amazonaws.com/releases/24268127/21516222-03ea-11e7-9539-865f2c23ebbe.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256
+正在连接 github-cloud.s3.amazonaws.com|52.216.227.16|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 400 Bad Request
+2017-05-04 22:50:50 错误 400：Bad Request。
+
